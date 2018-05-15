@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# 30 6 * * * /bin/bash /Users/weizhanbiao/Desktop/KnowledgeBase/git-management.sh
+
 LOGDATE=$(date "+%Y-%m-%d-%H-%M-%S")
 GitProjectDir=$(cd `dirname $0`; pwd)
 echo ${GitProjectDir}
