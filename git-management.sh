@@ -7,5 +7,5 @@ GitLogFile="${GitProjectDir}/git_log"
 cd ${GitProjectDir} 
 res=$(git status | grep "modified" | wc -l)  
 [ ${res} -eq 0 ] && echo "${LOGDATE}------> Nothing need to commit" >> ${GitLogFile} && exit 88
-git status >> ${GitLogFile} && git add -A && git commit -m "add something"
+git status >> ${GitLogFile} && git add -A && git commit -m "add something" && git push origin master:wzb
 [ $? -eq 0 ] && echo "${LOGDATE}------->commit ok" >> ${GitLogFile}
