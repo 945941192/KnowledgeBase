@@ -10,3 +10,14 @@ Changes not staged for commit:
 	modified:   git_log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+On branch wzb
+Your branch is ahead of 'origin/wzb' by 3 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git-management.sh
+
+no changes added to commit (use "git add" and/or "git commit -a")
