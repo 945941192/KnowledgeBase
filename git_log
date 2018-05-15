@@ -41,3 +41,15 @@ Changes not staged for commit:
 	modified:   git-management.sh
 
 no changes added to commit (use "git add" and/or "git commit -a")
+2018-05-15-09-23-54------->commit ok
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git_log
+
+no changes added to commit (use "git add" and/or "git commit -a")
