@@ -206,3 +206,20 @@ Changes not staged for commit:
 	modified:   git_log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+2018-05-15-11-06-25------->commit ok
+2018-05-15-11-06-34------> Nothing need to commit
+2018-05-15-11-06-40------> Nothing need to commit
+2018-05-15-11-08-00------> Nothing need to commit
+2018-05-15-11-09-00------> Nothing need to commit
+On branch wzb
+Your branch is up-to-date with 'origin/wzb'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   .gitignore
+	modified:   "base_tree/docker/docker\345\272\224\347\224\250\345\256\236\344\276\213.xmind"
+	modified:   git_log
+
+no changes added to commit (use "git add" and/or "git commit -a")
