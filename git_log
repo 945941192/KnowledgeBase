@@ -103,3 +103,13 @@ Changes not staged for commit:
 	modified:   git_log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+2018-05-15-10-52-00------> Nothing need to commit
+2018-05-15-10-51-59------->commit ok
+On branch wzb
+Your branch is up-to-date with 'origin/wzb'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   git_log
+
