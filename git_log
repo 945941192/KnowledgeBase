@@ -236,3 +236,19 @@ Changes not staged for commit:
 	modified:   git_log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+On branch wzb
+Your branch is ahead of 'origin/wzb' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   base_tree/.DS_Store
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	base_tree/deploy/
+
+no changes added to commit (use "git add" and/or "git commit -a")
