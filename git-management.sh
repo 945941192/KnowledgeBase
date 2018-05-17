@@ -1,5 +1,4 @@
 #!/bin/bash
-#hell
 # 30 6 * * * /bin/bash /Users/weizhanbiao/Desktop/KnowledgeBase/git-management.sh
 
 LOGDATE=$(date "+%Y-%m-%d-%H-%M-%S")
