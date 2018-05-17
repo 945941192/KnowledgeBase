@@ -277,3 +277,15 @@ Changes not staged for commit:
 	modified:   git_log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+2018-05-16-18-37-49------->commit ok
+On branch wzb
+Your branch is up-to-date with 'origin/wzb'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   git-management.sh
+	modified:   git_log
+
+no changes added to commit (use "git add" and/or "git commit -a")
