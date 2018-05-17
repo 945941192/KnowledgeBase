@@ -4,7 +4,7 @@
 LOGDATE=$(date "+%Y-%m-%d-%H-%M-%S")
 GitProjectDir=$(cd `dirname $0`; pwd)
 echo ${GitProjectDir}
-GitLogFile="${GitProjectDir}/git_log"
+GitLogFile="${GitProjectDir}/commit.log"
 
 git_operation()
 {
